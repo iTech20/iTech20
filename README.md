@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username={iTech20}&theme=blue-green">
+</div>
