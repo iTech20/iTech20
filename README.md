@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username={iTech20}&theme=blue-green">
+<div align-center>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iTech20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTech20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
