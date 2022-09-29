@@ -1,13 +1,8 @@
 <h1>⚡I'm iTech20, a programmer on the rise⚡</h1>
-<div>
   <div align="end">
     <img src="https://i.kym-cdn.com/photos/images/original/001/001/386/b99.gif">
   </div>
-  <div align="start">
-    <h3>Apenas um estudante de TI</h3>
-  </div>
-  
-</div
+
 <div>
   <a href="https://www.linkedin.com/in/marcus-vinicius-hon%C3%B3rio-gon%C3%A7alves-ribeiro-201302225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-    the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marcusviniciushgr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -20,7 +15,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 
-<div align-center>
+<div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iTech20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTech20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
