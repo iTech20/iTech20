@@ -22,6 +22,6 @@
 </div>
 <br>
 <div align="center">
- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=iTech20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <a href="https://github.com/iTech20?tab=repositories"><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTech20&layout=compact&langs_count=7&theme=dracula"/></a>
+ <img width="350em" src="https://github-readme-stats.vercel.app/api?username=iTech20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/iTech20?tab=repositories"><img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTech20&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
