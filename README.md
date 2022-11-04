@@ -2,9 +2,9 @@
   <div align="end">
     <img src="https://i.kym-cdn.com/photos/images/original/001/001/386/b99.gif">
   </div>
-
+<hr>
 <div>
-  <a href="https://www.linkedin.com/in/marcus-vinicius-hon%C3%B3rio-gon%C3%A7alves-ribeiro-201302225/"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-    the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+  <a href="https://www.linkedin.com/in/marcus-vinicius-hon%C3%B3rio-gon%C3%A7alves-ribeiro-201302225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marcusviniciushgr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
