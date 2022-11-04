@@ -1,16 +1,18 @@
-<h1 align="center">I'm iTech20</h1>
+<h1 align="center">echo "I'm iTech20";</h1>
   <div align="end">
     <img src="https://i.kym-cdn.com/photos/images/original/001/001/386/b99.gif">
   </div>
  <br>
 <div align="center">
-      <a href="https://www.linkedin.com/in/marcus-vinicius-hon%C3%B3rio-gon%C3%A7alves-ribeiro-201302225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="mailto:marcusviniciushgr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="mailto:marcusviniciushgr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-      <a href="tel:21965897511"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <h1>Me contate</h1>
+      <a href="https://www.linkedin.com/in/marcus-vinicius-hon%C3%B3rio-gon%C3%A7alves-ribeiro-201302225/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="mailto:marcusviniciushgr@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:marcusviniciushgr@outlook.com"  target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+      <a href="mailto:marcusvhgr@protonmail.com"  target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
  </div>
  <br>
  <div align="center">
+  <h1>Meus conhecimento</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
